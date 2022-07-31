@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Databases and Php
 - 💞️ I’m looking to collaborate on Open Source
+- :bomb: I'm work with php and larave
 
 <!---
 DaliGabriel/DaliGabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
