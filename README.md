@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DaliGabriel
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Databases and Php
-- 💞️ I’m looking to collaborate on Open Source
+- 👀 I’m interested in android development
 - :bomb: I'm work with php and laravel
 
 <!---
