@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaliGabriel
-- 👀 I’m interested in android development
-- :bomb: I'm work with php and laravel
+- 👀 I’m interested in web development
+- :bomb: I'm work with laravel and react ⚛️
 
 <!---
 DaliGabriel/DaliGabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
