@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Global developers**
 
-- 👨‍💻 All of my projects are available at [DaliGabriel (Gabriel Dalí) · GitHub.html](DaliGabriel (Gabriel Dalí) · GitHub.html)
-
 - 💬 Ask me about **laravel, react, redux**
 
 - 📫 How to reach me **dali.gabriel98@gmail.com**
