@@ -1,5 +1,3 @@
-Here’s the HTML version of your GitHub README with properly formatted content and logo support:
-
 <h1>💫 About Me:</h1>
 <p>
   Hey 👋! I’m <strong>Dalí Rangel</strong>, a <strong>Full-Stack Developer</strong> with over <strong>5 years of experience</strong> creating high-performance web applications and innovative digital solutions. I'm passionate about <strong>AI-powered projects</strong>, <strong>scalable applications</strong>, and delivering exceptional user experiences. 🚀
@@ -53,10 +51,4 @@ Here’s the HTML version of your GitHub README with properly formatted content 
   <li>🌱 Nature lover and explorer.</li>
   <li>🐱 Passionate about helping rescue animals.</li>
 </ul>
-
-<p>
-  <img src="https://visitcount.itsvg.in/api?id=DaliGabriel&icon=0&color=6" alt="Visit Counter" />
-</p>
-
-You can paste this into your GitHub README to display all the content and logos correctly. Let me know if you need further adjustments!
 
